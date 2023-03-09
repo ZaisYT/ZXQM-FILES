@@ -32,22 +32,42 @@
 
         {
             "name": "El Jordan 23",
-            "pfp": "https://i.scdn.co/image/ab6761610000f1784ce2c1a46489b100a1b56163"
+            "pfp": "https://i.scdn.co/image/ab6761610000f1784ce2c1a46489b100a1b56163",
+            "isPartner": false,
+            "bannerURL": "https://i.scdn.co/image/ab67618600001016b5d4511bae9d3a3d0b023372",
+            "ownedSongs": [ null ],
+            "playlists": [ null ],
+            "featuredSongs": [ null ]
         },
 
         {
             "name": "Shakira",
-            "pfp": "https://i.scdn.co/image/ab6761610000f178284894d68fe2f80cad555110"
+            "pfp": "https://i.scdn.co/image/ab6761610000f178284894d68fe2f80cad555110",
+            "isPartner": true,
+            "bannerURL": "https://i.scdn.co/image/ab67618600001016f370b9264537ea811388f572",
+            "ownedSongs": [4],
+            "playlists": [ null ],
+            "featuredSongs": [4]
         },
 
         {
             "name": "Jason Mraz",
-            "pfp": "https://i.scdn.co/image/ab6761610000f178c3b370fc26c83312db52af14"
+            "pfp": "https://i.scdn.co/image/ab6761610000f178c3b370fc26c83312db52af14",
+            "isPartner": true,
+            "bannerURL": "https://i.scdn.co/image/ab67618600001016c23581c03fc6ff6d932f6d81",
+            "ownedSongs": [ null ],
+            "playlists": [ null ],
+            "featuredSongs": [ null ]
         },
 
         {
             "name": "Twenty One Pilots",
-            "pfp": "https://i.scdn.co/image/ab6761610000f178196972172c37d934d9ca8093"
+            "pfp": "https://i.scdn.co/image/ab6761610000f178196972172c37d934d9ca8093",
+            "isPartner": true,
+            "bannerURL": "https://i.scdn.co/image/ab67618600001016a0a38da60b149230f4f3a71d",
+            "ownedSongs": [ null ],
+            "playlists": [ null ],
+            "featuredSongs": [ null ]
         }
     ]
 }
