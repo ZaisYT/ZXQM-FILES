@@ -2,17 +2,32 @@
     "Artists": [
         {
             "name": "Paulo Londra",
-            "pfp": "https://i.scdn.co/image/ab6761610000f178bdcfc4ed6729fd1e4b63bdba"
+            "pfp": "https://i.scdn.co/image/ab6761610000f178bdcfc4ed6729fd1e4b63bdba",
+            "isPartner": true,
+            "bannerURL": "https://i.scdn.co/image/ab676186000010169fdcec7576829385d5379454",
+            "ownedSongs": [0, 7, 8, 10, 11, 12],
+            "playlists": [ null ],
+            "featuredSongs": [11, 7, 10, 8, 12, 0]
         },
 
         {
             "name": "Kevin Kaarl",
-            "pfp": "https://i.scdn.co/image/ab6761610000f178917c61c671914097d79fa938"
+            "pfp": "https://i.scdn.co/image/ab6761610000f178917c61c671914097d79fa938",
+            "isPartner": true,
+            "bannerURL": "https://i.scdn.co/image/ab67618600001016963863eb7c927a13d1798c8c",
+            "ownedSongs": [13, 14, 15],
+            "playlists": [ null ],
+            "featuredSongs": [15, 13, 14]
         },
 
         {
             "name": "Bizarrap",
-            "pfp": "https://i.scdn.co/image/ab6761610000f17812085fdb28f314e01ef73a19"
+            "pfp": "https://i.scdn.co/image/ab6761610000f17812085fdb28f314e01ef73a19",
+            "isPartner": true,
+            "bannerURL": "https://i.scdn.co/image/ab6761860000101698640c8bc52b03510b4d5cd7",
+            "ownedSongs": [1, 6, 7, 9],
+            "playlists": [ null ],
+            "featuredSongs": [9, 1, 6, 7]
         },
 
         {
