@@ -1,0 +1,38 @@
+{
+    "Artists": [
+        {
+            "name": "Paulo Londra",
+            "pfp": "/user-imgs/paulo-londra.jpg"
+        },
+
+        {
+            "name": "Kevin Kaarl",
+            "pfp": "/user-imgs/kevin-kaarl.jpg"
+        },
+
+        {
+            "name": "Bizarrap",
+            "pfp": "/user-imgs/bizarrap.jpg"
+        },
+
+        {
+            "name": "El Jordan 23",
+            "pfp": "/user-imgs/el-jordan23.jpg"
+        },
+
+        {
+            "name": "Shakira",
+            "pfp": "/user-imgs/shakira.jpg"
+        },
+
+        {
+            "name": "Jason Mraz",
+            "pfp": "https://i.scdn.co/image/ab6761610000f178c3b370fc26c83312db52af14"
+        },
+
+        {
+            "name": "Twenty One Pilots",
+            "pfp": "https://i.scdn.co/image/ab6761610000f178196972172c37d934d9ca8093"
+        }
+    ]
+}
