@@ -1,0 +1,153 @@
+{
+    "Songs": [
+        {
+            "name": "Nena Maldicion",
+            "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/nenamaldicion.mp3?raw=true",
+            "imgfile": "https://raw.githubusercontent.com/ZaisYT/ZXQM-FILES/main/images/NenaMaldicion.jpg",
+            "artists": {
+                "1": "Paulo Londra"
+            }
+        },
+
+        {
+            "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
+            "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/bzrpvol51.mp3?raw=true",
+            "imgfile": "https://raw.githubusercontent.com/ZaisYT/ZXQM-FILES/main/images/bzrpvol51.png",
+            "artists": {
+                "1": "Bizarrap",
+                "2": "Villano Antillano"
+            }
+        },
+
+        {
+            "name": "Ultra Solo",
+            "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/UltraSolo.mp3?raw=true",
+            "imgfile": "https://raw.githubusercontent.com/ZaisYT/ZXQM-FILES/main/images/UltraSolo.jpg",
+            "artists": {
+                "1": "Polima Westcoast",
+                "2": "Pailita"
+            }
+        },
+
+        {
+            "name": "Paz Mental",
+            "file": "PAZMENTAL.mp3",
+            "imgfile": "https://raw.githubusercontent.com/ZaisYT/ZXQM-FILES/main/images/PazMental.png",
+            "artists": {
+                "1": "Cris Mj"
+            }
+        },
+
+        {
+            "name": "Te Felicito",
+            "file": "TEFELICITO.mp3",
+            "imgfile": "https://raw.githubusercontent.com/ZaisYT/ZXQM-FILES/main/images/TeFelicito.png",
+            "artists": {
+                "1": "Rauw Alejandro",
+                "2": "Shakira"
+            }
+        },
+
+        {
+            "name": "Titi me pregunto",
+            "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/titimepregunto.mp3?raw=true",
+            "imgfile": "https://raw.githubusercontent.com/ZaisYT/ZXQM-FILES/main/images/Titimepregunto.jpg",
+            "artists": {
+                "1": "Bad Bunny"
+            }
+        },
+
+        {
+            "name": "Residente: Bzrp Music Sessions, Vol. 49",
+            "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/bzrpvol49.mp3?raw=true",
+            "imgfile": "https://raw.githubusercontent.com/ZaisYT/ZXQM-FILES/main/images/bzrpvol49.jpg",
+            "artists": {
+                "1": "Bizarrap",
+                "2": "Residente"
+            }
+        },
+
+        {
+            "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
+            "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/bzrpvol23.mp3?raw=true",
+            "imgfile": "https://raw.githubusercontent.com/ZaisYT/ZXQM-FILES/main/images/bzrpvol23.png",
+            "artists": {
+                "1": "Bizarrap",
+                "2": "Paulo Londra"
+            }
+        },
+
+        {
+            "name": "Plan A",
+            "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/plana.mp3?raw=true",
+            "imgfile": "https://raw.githubusercontent.com/ZaisYT/ZXQM-FILES/main/images/plana.jpg",
+            "artists": {
+                "1": "Paulo Londra"
+            }
+        },
+
+        {
+            "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+            "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/Bzrpvol52.mp3?raw=true",
+            "imgfile": "https://raw.githubusercontent.com/ZaisYT/ZXQM-FILES/main/images/Bzrpvol52.jpeg",
+            "artists": {
+                "1": "Bizarrap",
+                "2": "Quevedo"
+            }
+        },
+
+        {
+            "name": "Chica Paranormal",
+            "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/chicaparanormal.mp3?raw=true",
+            "imgfile": "https://raw.githubusercontent.com/ZaisYT/ZXQM-FILES/main/images/chicaparanormal.jpg",
+            "artists": {
+                "1": "Paulo Londra"
+            }
+        },
+
+        {
+            "name": "Tal Vez",
+            "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/talvez.mp3?raw=true",
+            "imgfile": "https://raw.githubusercontent.com/ZaisYT/ZXQM-FILES/main/images/talvez.jpeg",
+            "artists": {
+                "1": "Paulo Londra"
+            }
+        },
+
+        {
+            "name": "Chance",
+            "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/chance.mp3?raw=true",
+            "imgfile": "https://raw.githubusercontent.com/ZaisYT/ZXQM-FILES/main/images/chance.jpg",
+            "artists": {
+                "1": "Paulo Londra"
+            }
+        },
+
+        {
+            "name": "San Lucas",
+            "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/sanlucas.mp3?raw=true",
+            "imgfile": "https://e-cdn-images.dzcdn.net/images/cover/33a40c1cf41b58a708b827e3c98bf2e9/264x264-000000-80-0-0.jpg",
+            "artists": {
+                "1": "Kevin Kaarl" 
+            }
+        },
+
+        {
+            "name": "Vamonos a marte",
+            "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/vamonosamarte.mp3?raw=true",
+            "imgfile": "https://e-cdn-images.dzcdn.net/images/cover/5ef8882ec909a84f8003df7555c0ae98/264x264-000000-80-0-0.jpg",
+            "artists": {
+                "1": "Kevin Kaarl" 
+            }
+        },
+
+        {
+            "name": "Colapso",
+            "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/colapso.mp3?raw=true",
+            "imgfile": "https://e-cdn-images.dzcdn.net/images/cover/5ef8882ec909a84f8003df7555c0ae98/264x264-000000-80-0-0.jpg",
+            "artists": {
+              "1": "Kevin Kaarl" 
+            }
+        }
+    ]
+}
