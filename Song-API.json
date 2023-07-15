@@ -8,7 +8,6 @@
                 "1": "Paulo Londra"
             }
         },
-
         {
             "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
             "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/bzrpvol51.mp3?raw=true",
@@ -18,7 +17,6 @@
                 "2": "Villano Antillano"
             }
         },
-
         {
             "name": "Ultra Solo",
             "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/UltraSolo.mp3?raw=true",
@@ -28,7 +26,6 @@
                 "2": "Pailita"
             }
         },
-
         {
             "name": "Paz Mental",
             "file": "PAZMENTAL.mp3",
@@ -37,7 +34,6 @@
                 "1": "Cris Mj"
             }
         },
-
         {
             "name": "Te Felicito",
             "file": "TEFELICITO.mp3",
@@ -47,7 +43,6 @@
                 "2": "Shakira"
             }
         },
-
         {
             "name": "Titi me pregunto",
             "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/titimepregunto.mp3?raw=true",
@@ -56,7 +51,6 @@
                 "1": "Bad Bunny"
             }
         },
-
         {
             "name": "Residente: Bzrp Music Sessions, Vol. 49",
             "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/bzrpvol49.mp3?raw=true",
@@ -66,7 +60,6 @@
                 "2": "Residente"
             }
         },
-
         {
             "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
             "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/bzrpvol23.mp3?raw=true",
@@ -76,7 +69,6 @@
                 "2": "Paulo Londra"
             }
         },
-
         {
             "name": "Plan A",
             "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/plana.mp3?raw=true",
@@ -85,7 +77,6 @@
                 "1": "Paulo Londra"
             }
         },
-
         {
             "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
             "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/Bzrpvol52.mp3?raw=true",
@@ -95,7 +86,6 @@
                 "2": "Quevedo"
             }
         },
-
         {
             "name": "Chica Paranormal",
             "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/chicaparanormal.mp3?raw=true",
@@ -104,7 +94,6 @@
                 "1": "Paulo Londra"
             }
         },
-
         {
             "name": "Tal Vez",
             "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/talvez.mp3?raw=true",
@@ -113,7 +102,6 @@
                 "1": "Paulo Londra"
             }
         },
-
         {
             "name": "Chance",
             "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/chance.mp3?raw=true",
@@ -122,7 +110,6 @@
                 "1": "Paulo Londra"
             }
         },
-
         {
             "name": "San Lucas",
             "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/sanlucas.mp3?raw=true",
@@ -131,7 +118,6 @@
                 "1": "Kevin Kaarl" 
             }
         },
-
         {
             "name": "Vamonos a marte",
             "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/vamonosamarte.mp3?raw=true",
@@ -140,7 +126,6 @@
                 "1": "Kevin Kaarl" 
             }
         },
-
         {
             "name": "Colapso",
             "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/colapso.mp3?raw=true",
@@ -156,6 +141,22 @@
             "imgfile": "https://i.scdn.co/image/ab67616d000048510af4476af141051c728ee8b9",
             "artists": {
                 "1": "JVKE"
+            }
+        },
+        {
+            "name": "B.Y.O.B",
+            "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/BYOB.mp3?raw=true",
+            "imgfile": "https://i.scdn.co/image/ab67616d00001e02c65f8d04502eeddbdd61fa71",
+            "artists": {
+                "1": "System Of A Down"
+            }
+        },
+        {
+            "name": "Another One Bites The Dust - Remastered 2011",
+            "file": "https://github.com/ZaisYT/ZXQM-FILES/blob/main/audios/aobtdr.mp3?raw=true",
+            "imgfile": "https://i.scdn.co/image/ab67616d00001e02056e90910cbaf5c5b892aeba",
+            "artists": {
+                "1": "Queen"
             }
         }
     ]
