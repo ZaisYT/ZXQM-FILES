@@ -1,0 +1,59 @@
+{
+  "tasks": [
+    {
+      "Month": 7,
+      "Day": 29,
+      "taskInfo": {
+        "title": "hola",
+        "clase": "asd",
+        "description": "asd",
+        "tipo": "Tarea",
+        "time": "En Clases (14:00)"
+      }
+    },
+    {
+      "Month": 7,
+      "Day": 22,
+      "taskInfo": {
+        "title": "hola dsf",
+        "clase": "asd rerewwe",
+        "description": "asfgfdhj",
+        "tipo": "Tarea",
+        "time": "En Clases (11:15)"
+      }
+    },
+    {
+      "Month": 7,
+      "Day": 22,
+      "taskInfo": {
+        "title": "holak",
+        "clase": "asd ghf",
+        "description": "asfgdfgdfthrutrybcvvbcvd",
+        "tipo": "Tarea",
+        "time": "En Clases (15:30)"
+      }
+    },
+    {
+      "Month": 7,
+      "Day": 21,
+      "taskInfo": {
+        "title": "holak",
+        "clase": "asd ghf",
+        "description": "asfgdfgdfthrutrybcvvbcvd",
+        "tipo": "Tarea",
+        "time": "En Clases (15:30)"
+      }
+    },
+    {
+      "Month": 7,
+      "Day": 28,
+      "taskInfo": {
+        "title": "holak",
+        "clase": "asd ghf",
+        "description": "asfgdfgdfthrutrybcvvbcvd",
+        "tipo": "Tarea",
+        "time": "En Clases (15:30)"
+      }
+    }
+  ]
+}
