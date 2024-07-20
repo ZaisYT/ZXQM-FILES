@@ -1,14 +1,14 @@
 {
   "tasks": [
-    {
+        {
       "Month": 7,
-      "Day": 29,
+      "Day": 25,
       "taskInfo": {
-        "title": "hola",
-        "clase": "asd",
-        "description": "asd",
-        "tipo": "Tarea",
-        "time": "En Clases (14:00)"
+        "title": "EXPOSICIÓN DIF. HISTORIA",
+        "clase": "Dif. Comprensión Histórica del Presente",
+        "description": "No hay descripción disponible :C",
+        "tipo": "Exposicion",
+        "time": "En Clases (08:00)"
       }
     },
     {
