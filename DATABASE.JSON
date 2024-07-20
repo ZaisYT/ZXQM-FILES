@@ -1,6 +1,6 @@
 {
   "tasks": [
-        {
+    {
       "Month": 7,
       "Day": 25,
       "taskInfo": {
@@ -13,46 +13,79 @@
     },
     {
       "Month": 7,
-      "Day": 22,
-      "taskInfo": {
-        "title": "hola dsf",
-        "clase": "asd rerewwe",
-        "description": "asfgfdhj",
-        "tipo": "Tarea",
-        "time": "En Clases (11:15)"
-      }
-    },
-    {
-      "Month": 7,
-      "Day": 22,
-      "taskInfo": {
-        "title": "holak",
-        "clase": "asd ghf",
-        "description": "asfgdfgdfthrutrybcvvbcvd",
-        "tipo": "Tarea",
-        "time": "En Clases (15:30)"
-      }
-    },
-    {
-      "Month": 7,
-      "Day": 21,
-      "taskInfo": {
-        "title": "holak",
-        "clase": "asd ghf",
-        "description": "asfgdfgdfthrutrybcvvbcvd",
-        "tipo": "Tarea",
-        "time": "En Clases (15:30)"
-      }
-    },
-    {
-      "Month": 7,
       "Day": 28,
       "taskInfo": {
-        "title": "holak",
-        "clase": "asd ghf",
-        "description": "asfgdfgdfthrutrybcvvbcvd",
-        "tipo": "Tarea",
+        "title": "Análisis de cuentos del realismo mágico",
+        "clase": "Lenguaje Común",
+        "description": "No hay descripción disponible :C",
+        "tipo": "Actividad",
         "time": "En Clases (15:30)"
+      }
+    },
+    {
+      "Month": 7,
+      "Day": 29,
+      "taskInfo": {
+        "title": "Evaluación n°1 Matemática Común",
+        "clase": "Matemática Común",
+        "description": "Evaluación n°1:\n- Área y perímetro de figuras 2D (cuadriláteros, triángulos y circunferencias)\n- Ángulos de Circunferencia",
+        "tipo": "Prueba",
+        "time": "En Clases (12:15)"
+      }
+    },
+    {
+      "Month": 7,
+      "Day": 30,
+      "taskInfo": {
+        "title": "EXPOSICIÓN HISTORIA",
+        "clase": "Dif. Historia",
+        "description": "No hay descripción disponible :C",
+        "tipo": "Exposición",
+        "time": "En Clases (09:45)"
+      }
+    },
+    {
+      "Month": 7,
+      "Day": 30,
+      "taskInfo": {
+        "title": "Investigación de textos para escritura de Monografía.",
+        "clase": "Dif. Lenguaje",
+        "description": "No hay descripción disponible :C",
+        "tipo": "Actividad",
+        "time": "En Clases (08:00)"
+      }
+    },
+    {
+      "Month": 7,
+      "Day": 31,
+      "taskInfo": {
+        "title": "EXPOSICIÓN HISTORIA",
+        "clase": "Dif. Historia",
+        "description": "No hay descripción disponible :C",
+        "tipo": "Exposición",
+        "time": "En Clases (08:00)"
+      }
+    },
+    {
+      "Month": 8,
+      "Day": 1,
+      "taskInfo": {
+        "title": "EXPOSICIÓN HISTORIA",
+        "clase": "Dif. Historia",
+        "description": "No hay descripción disponible :C",
+        "tipo": "Exposición",
+        "time": "En Clases (08:00)"
+      }
+    },
+    {
+      "Month": 8,
+      "Day": 1,
+      "taskInfo": {
+        "title": "Prueba N°1 - \"Biología de Ecosistemas\"",
+        "clase": "Dif. Biologia",
+        "description": "Prueba N°1 de Electivo Diferenciado de Ciencias Biológicas para III° medio A y B.\n \nContenidos:\n- Organización de organismos en ecosistema: Organismos (especie), población, comunidad y ecosistema.\n- Niveles tróficos\n- Cadenas y redes tróficos.\n- Flujo de materia y energía en los niveles tróficos. \n- Ley del 10% del traspaso de energía\n- Servicios ecosistémicos",
+        "tipo": "Prueba",
+        "time": "En Clases (08:00)"
       }
     }
   ]
